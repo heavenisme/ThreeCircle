@@ -174,7 +174,7 @@ angular.module('starter.MyTribeController', [])
 
     // 托管或取消托管 wuyabuluo
     // status: 1取消托管 0非托管
-    $scope.trustship = function(houseId,selectLandId, trustshipstatus){
+    $scope.trustship = function(houseId,selectLandId, trustshipstatus,index){
         // 确认对话框
         var confirmPopup = $ionicPopup.confirm({
             title: '<strong>提示</strong>',
