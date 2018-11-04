@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.anywide.hengxun.tribe"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.anywide.hengxun.tribe"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.anywide.hengxun.tribe"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.anywide.hengxun.tribe"
+    }
+  },
+  "dependent_plugins": {}
+}

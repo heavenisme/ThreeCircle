@@ -1,0 +1,466 @@
+-- Merging decision tree log ---
+provider#org.apache.cordova.camera.FileProvider
+INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:127:9-129:20
+	android:grantUriPermissions
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:127:92-126
+	android:authorities
+		INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:127:19-66
+	android:exported
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:127:67-91
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:127:127-180
+manifest
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:1-131:12
+MERGED from [com.android.support:support-v4:24.1.1] /Users/heaven/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/f40974e4d4e5a598813463e9fba7493b/AndroidManifest.xml:17:1-27:12
+MERGED from [:CordovaLib] /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:1-131:12
+INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:1-131:12
+	package
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:102-137
+	android:versionName
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:138-196
+	android:versionCode
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:3:5-74
+MERGED from [com.android.support:support-v4:24.1.1] /Users/heaven/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/f40974e4d4e5a598813463e9fba7493b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] /Users/heaven/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/f40974e4d4e5a598813463e9fba7493b/AndroidManifest.xml:21:5-23:54
+MERGED from [:CordovaLib] /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.1.1] /Users/heaven/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/f40974e4d4e5a598813463e9fba7493b/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:3:42-71
+	android:minSdkVersion
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:3:15-41
+supports-screens
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:4:5-191
+	android:largeScreens
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:4:49-76
+	android:smallScreens
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:4:132-159
+	android:normalScreens
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:4:77-105
+	android:xlargeScreens
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:4:160-188
+	android:resizeable
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:4:106-131
+	android:anyDensity
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:4:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:10:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:14:22-69
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:15:22-77
+permission#com.anywide.hengxun.tribe.permission.JPUSH_MESSAGE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:16:5-121
+	android:protectionLevel
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:16:83-118
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:16:17-82
+uses-permission#com.anywide.hengxun.tribe.permission.JPUSH_MESSAGE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:17:5-90
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:17:22-87
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:20:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:21:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:22:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:23:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:25:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:27:5-89
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:27:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:28:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:29:5-65
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:29:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:30:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:31:5-85
+	android:required
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:31:58-82
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:31:19-57
+application
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:32:5-130:19
+MERGED from [com.android.support:support-v4:24.1.1] /Users/heaven/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/f40974e4d4e5a598813463e9fba7493b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /Users/heaven/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/f40974e4d4e5a598813463e9fba7493b/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:32:116-142
+	android:label
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:32:83-115
+	android:hardwareAccelerated
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:32:18-52
+	android:icon
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:32:53-82
+activity#com.anywide.hengxun.tribe.WelcomeActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:33:9-34:20
+	android:label
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:33:19-65
+	android:launchMode
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:33:66-96
+	android:windowSoftInputMode
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:33:129-184
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:33:97-128
+activity#com.google.zxing.client.android.CaptureActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:35:9-40:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:35:19-51
+	android:windowSoftInputMode
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:35:250-297
+	android:exported
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:35:103-127
+	android:configChanges
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:35:52-102
+	android:theme
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:35:191-249
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:35:128-190
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SCAN
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:36:13-39:29
+action#com.google.zxing.client.android.SCAN
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:37:17-79
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:37:25-76
+category#android.intent.category.DEFAULT
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:38:27-73
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:41:19-53
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:41:54-122
+intent-filter#android.intent.category.DEFAULT+com.phonegap.plugins.barcodescanner.ENCODE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:42:13-45:29
+action#com.phonegap.plugins.barcodescanner.ENCODE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:43:17-85
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:43:25-82
+activity#com.google.zxing.client.android.HelpActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:47:9-52:20
+	android:label
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:47:19-53
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:47:54-113
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.VIEW
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:49:25-66
+activity#com.anywide.hengxun.tribe.MainActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:9-63:20
+	android:screenOrientation
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:195-231
+	android:label
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:97-134
+	android:launchMode
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:286-328
+	android:configChanges
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:19-96
+	android:theme
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:232-285
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:53:166-194
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:54:13-57:29
+	android:label
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:54:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:56:27-74
+activity#com.anywide.hengxun.tribe.FullscreenActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:64:9-65:20
+	android:label
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:64:81-130
+	android:configChanges
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:64:19-80
+	android:theme
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:64:166-204
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:64:131-165
+activity#com.anywide.hengxun.tribe.wxapi.WXPayEntryActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:66:9-117
+	android:launchMode
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:66:43-73
+	android:exported
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:66:19-42
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:66:74-114
+receiver#net.sourceforge.simcpux.AppRegister
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:67:9-71:20
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:67:19-69
+intent-filter#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:68:13-70:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:69:17-100
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:69:25-97
+activity#cn.jpush.android.ui.PushActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:72:9-78:20
+	android:configChanges
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:72:19-69
+	android:theme
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:72:118-177
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:72:70-117
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.anywide.hengxun.tribe
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:73:13-77:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:74:17-75
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:74:25-72
+category#com.anywide.hengxun.tribe
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:76:17-70
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:76:27-67
+service#cn.jpush.android.service.DownloadService
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:79:9-124
+	android:enabled
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:79:18-40
+	android:exported
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:79:41-65
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:79:66-121
+service#cn.jpush.android.service.PushService
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:80:9-87:19
+	android:enabled
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:80:18-40
+	android:exported
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:80:41-65
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:80:66-117
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:81:13-86:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:82:17-75
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:82:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:83:17-73
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:83:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:84:17-78
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:84:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:85:17-76
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:85:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:88:9-102:20
+	android:enabled
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:88:19-41
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:88:42-94
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.anywide.hengxun.tribe
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:89:13-92:29
+	android:priority
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:89:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:90:17-94
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:90:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:93:13-96:29
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:94:17-77
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:94:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:95:17-79
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:95:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:97:13-101:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:98:17-78
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:98:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:99:17-80
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:99:25-77
+data
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:100:17-50
+	android:scheme
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:100:23-47
+receiver#cn.jpush.phonegap.MyReceiver
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:103:9-117:20
+	android:enabled
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:103:19-41
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:103:42-85
+intent-filter#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+cn.jpush.android.intent.UNREGISTRATION+com.anywide.hengxun.tribe
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:108:13-116:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:109:17-79
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:109:25-76
+action#cn.jpush.android.intent.UNREGISTRATION
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:110:25-78
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:111:17-83
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:111:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:112:17-88
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:112:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:113:17-86
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:113:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:114:17-91
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:114:25-88
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:118:9-75
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:118:19-72
+meta-data#JPUSH_CHANNEL
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:119:9-85
+	android:value
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:119:49-82
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:119:20-48
+meta-data#JPUSH_APPKEY
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:120:9-91
+	android:value
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:120:48-88
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:120:20-47
+service#com.umeng.update.net.DownloadingService
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:121:9-122:19
+	android:process
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:121:73-110
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:121:18-72
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:123:9-124:20
+	android:theme
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:123:72-131
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:123:19-71
+meta-data#UMENG_APPKEY
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:125:9-91
+	android:value
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:125:48-88
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:125:20-47
+meta-data#UMENG_CHANNEL
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:126:9-72
+	android:value
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:126:49-69
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:126:20-48
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:128:13-123
+	android:resource
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:128:75-120
+	android:name
+		ADDED from /Users/heaven/WebstormProjects/ThreeCircle/platforms/android/app/src/main/AndroidManifest.xml:128:24-74
